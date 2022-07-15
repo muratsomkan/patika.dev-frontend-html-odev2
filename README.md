@@ -1,11 +1,11 @@
-**# KODLUYORUZ HTML ÖDEV 1**
+# KODLUYORUZ HTML ÖDEV 2
 
-Bu repo Patika.dev Front-End eğitiminde HTML ödev 1 için oluşturulmuştur.
+Bu repo Patika.dev Front-End eğitiminde HTML ödev 2 için oluşturulmuştur.
 
 ## Installation
 
 ```bash
-git clone https://github.com/muratsomkan/patika.dev-frontend-html-odev1.git
+git clone https://github.com/muratsomkan/patika.dev-frontend-html-odev2.git
 ```
 
-![odev1](odev1.png)
+![odev1](odev2.png)
